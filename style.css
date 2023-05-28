@@ -1,0 +1,24 @@
+.im {
+width: 428px;
+border-style: outset;
+border-color: pink;
+border-width: 4px;
+}
+
+.im2 {
+    width: 400px;
+    border-style:outset;
+    border-color: pink;
+    border-width: 4px;
+    }
+
+.titulo{
+
+    color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    border-style: outset;
+    border-width: 2px;
+    
+}
+
